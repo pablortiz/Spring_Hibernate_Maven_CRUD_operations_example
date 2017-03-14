@@ -1,0 +1,6 @@
+echo "# Spring_Hibernate_Maven_CRUD_operations_example" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:pablortiz/Spring_Hibernate_Maven_CRUD_operations_example.git
+git push -u origin master
